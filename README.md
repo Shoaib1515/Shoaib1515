@@ -14,7 +14,6 @@
 - 🚀 Currently transitioning into **Full Stack / MERN** development (Node.js, Express.js, MongoDB, TypeScript)
 - 🛡️ Also passionate about **Cybersecurity & SOC Operations** — SIEM, Pentesting, Threat Intelligence, and Incident Response
 - 🌱 Currently building Node.js & Express.js backend services with TypeScript, and MongoDB schema design
-- 📄 ISO/IEC 27001:2022 & SkillFront Information Security Associate™ certified
 - 💬 Ask me about Python, FastAPI, REST APIs, Flutter, or SOC/SIEM basics
 - 📫 Reach me at **shoaibasghar1515@gmail.com**
 
@@ -103,10 +102,6 @@
 | **[Compliance Policy Research](#)** | Research and documentation on ISO 27001, GDPR, HIPAA, and PCI DSS compliance requirements. |
 
 ---
-
-### 📜 Certifications
-- ISO/IEC 27001:2022
-- SkillFront Information Security Associate™
 
 ### 🧠 Frameworks & Knowledge Areas
 MITRE ATT&CK · OWASP Top 10 · SDLC · Agile Fundamentals · Risk Assessment · Incident Response
