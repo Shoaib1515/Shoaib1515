@@ -99,7 +99,6 @@
 | **[Honeypot Deployment (Cowrie)](#)** | SSH/Telnet honeypot to capture and analyze attacker behavior and login attempts. |
 | **[Social Engineering Simulation (SET)](#)** | Simulated phishing attacks and credential harvesting in a controlled lab using the Social Engineer Toolkit. |
 | **[Cybersecurity Awareness Website + Chatbot](#)** | Interactive platform educating users on phishing, malware, ransomware, and cyber hygiene. |
-| **[Compliance Policy Research](#)** | Research and documentation on ISO 27001, GDPR, HIPAA, and PCI DSS compliance requirements. |
 
 ---
 
