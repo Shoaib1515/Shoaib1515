@@ -1,130 +1,117 @@
-<h1 align="center">Hi 👋, I'm Muhammad Shoaib Asghar</h1>
-<h3 align="center">Software Engineer | Backend Developer | Cybersecurity & SOC Enthusiast</h3>
+# Hi 👋, I'm Muhammad Shoaib Asghar
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Backend+Developer+(Python+%7C+FastAPI+%7C+PostgreSQL);Transitioning+into+Full+Stack+%2F+MERN;Cybersecurity+%26+SOC+Analyst+Enthusiast;SIEM+%7C+Pentesting+%7C+Threat+Intelligence" alt="Typing SVG" />
-</p>
+### Full Stack Developer | Cybersecurity & SOC Enthusiast | AI Enthusiast
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(React+%2B+Next.js+%2B+FastAPI);Transitioning+into+FULL+STACK+%2B+MERN;Cybersecurity+%26+SOC+Analyst+Enthusiast;SIEM+%7C+Pentesting+%7C+Threat+Intelligence)](https://git.io/typing-svg)
 
 ---
 
 ### 👨‍💻 About Me
 
 - 🎓 BS Software Engineering, Islamia University Bahawalpur (CGPA: 3.34/4.00)
-- 🔧 Backend development experience with **Python, FastAPI, PostgreSQL**, and RESTful API design
-- 🚀 Currently transitioning into **Full Stack / MERN** development (Node.js, Express.js, MongoDB, TypeScript)
+- 💻 **Full Stack Developer** — React & Next.js on the frontend, Python/FastAPI on the backend
+- 🔧 Backend experience with **Python, FastAPI, PostgreSQL**, and RESTful API design
+- 🎨 Frontend experience with **React, Next.js, Tailwind CSS, Framer Motion**, and Flutter
 - 🛡️ Also passionate about **Cybersecurity & SOC Operations** — SIEM, Pentesting, Threat Intelligence, and Incident Response
-- 🌱 Currently building Node.js & Express.js backend services with TypeScript, and MongoDB schema design
-- 💬 Ask me about Python, FastAPI, REST APIs, Flutter, or SOC/SIEM basics
+- 💬 Ask me about React, Next.js, Python, FastAPI, REST APIs, Flutter, or SOC/SIEM basics
 - 📫 Reach me at **shoaibasghar1515@gmail.com**
 
 ---
 
 ### 🧰 Tech Stack & Tools
 
+**Frontend**
+
+![](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![](https://img.shields.io/badge/-Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
 **Languages**
-<p>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-</p>
+
+![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Backend & Frameworks**
-<p>
-  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-</p>
+
+![](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
 **Databases**
-<p>
-  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-</p>
 
-**API Testing & Docs**
-<p>
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
-</p>
+![](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 **Cybersecurity & SOC Tools**
-<p>
-  <img src="https://img.shields.io/badge/-Wazuh-1E88E5?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Splunk-000000?style=flat-square&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Nmap-4682B4?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square" />
-  <img src="https://img.shields.io/badge/-OWASP%20ZAP-000000?style=flat-square&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Nessus-00A99D?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Metasploit-2596CD?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
-</p>
+
+![](https://img.shields.io/badge/-Wazuh-1E88E5?style=flat-square)
+![](https://img.shields.io/badge/-Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![](https://img.shields.io/badge/-Nmap-4682B4?style=flat-square)
+![](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square)
+![](https://img.shields.io/badge/-OWASP%20ZAP-000000?style=flat-square&logo=owasp&logoColor=white)
+![](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 
 **Tools & Environments**
-<p>
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-</p>
+
+![](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 💻 Software Engineering
+#### 💻 Full Stack / Software Engineering
 
 | Project | Description |
 |---|---|
-| **[Secure Password Toolkit](#)** | Local-first credential manager (Python/Tkinter) with PBKDF2-HMAC-SHA256 key derivation, brute-force lockout, and a formal threat model/security assessment report. |
-| **[Crime Investigation Management System](#)** | REST API (FastAPI + PostgreSQL) with relational schema for detectives, cases, suspects, evidence; custom business logic for case threat levels and AI-based risk scoring. |
-| **[Jarvis Voice Assistant](#)** | Voice-controlled desktop assistant using `speech_recognition`, `pyttsx3`, and `win32com.client` for system automation. |
-| **[Social & Fintech UI Clones](#)** | JazzCash, Facebook, and Instagram UI clones built in Flutter with responsive layouts and state management. |
-| **[Online Examination System](#)** | Full-stack web app (PHP, JavaScript, MySQL) with student/teacher portals, instant result computation, and role-based access. |
-| **[Guess the Truth](#)** | Console-based logic game in Python (OOP) with a custom randomized decision-making algorithm. |
+| **[Portfolio Website](https://github.com/Shoaib1515/portfolio)** | My personal portfolio — Next.js, React, Tailwind CSS, Framer Motion, Three.js, with a real working contact form backend. |
+| **[Secure Password Toolkit](https://github.com/Shoaib1515/password-toolkit)** | Local-first credential manager (Python/Tkinter) with PBKDF2-HMAC-SHA256 key derivation, brute-force lockout, and a formal threat model/security assessment report. |
+| **[Jarvis Voice Assistant](https://github.com/Shoaib1515/Desktop-AI-Assistant-Jarvis)** | Voice-controlled desktop assistant using `speech_recognition`, `pyttsx3`, and `win32com.client` for system automation. |
+| **[Instagram Clone](https://github.com/Shoaib1515/instagram_clone)** | Instagram-inspired mobile UI built in Flutter. |
+| **[Facebook Clone](https://github.com/Shoaib1515/facebook_Clone)** | Responsive Facebook clone UI built with Flutter. |
+| **[Login Page UI](https://github.com/Shoaib1515/loginpage)** | Clean, responsive login UI design built with Flutter. |
 
 #### 🛡️ Cybersecurity
 
 | Project | Description |
 |---|---|
-| **[Wazuh SIEM Deployment & Log Analysis](#)** | Deployed Wazuh SIEM for real-time monitoring; configured agents, analyzed logs, and generated security alerts. |
-| **[Honeypot Deployment (Cowrie)](#)** | SSH/Telnet honeypot to capture and analyze attacker behavior and login attempts. |
-| **[Social Engineering Simulation (SET)](#)** | Simulated phishing attacks and credential harvesting in a controlled lab using the Social Engineer Toolkit. |
-| **[Cybersecurity Awareness Website + Chatbot](#)** | Interactive platform educating users on phishing, malware, ransomware, and cyber hygiene. |
+| **[SILI AI — Offensive/Defensive AI Security](https://github.com/Shoaib1515/sili-ai-Offensive-Defensive-AI-Security)** | Self-hosted, terminal-themed security assistant combining search-grounded Q&A, AI-powered code vulnerability auditing, and authorized nmap + CVE recon. |
+| **Crime Investigation Management System** | REST API (FastAPI + PostgreSQL) with relational schema for detectives, cases, suspects, evidence; AI-based risk scoring. *(repo link coming soon)* |
+| **Wazuh SIEM Deployment & Log Analysis** | Deployed Wazuh SIEM for real-time monitoring; configured agents, analyzed logs, and generated security alerts. *(repo link coming soon)* |
+| **Honeypot Deployment (Cowrie)** | SSH/Telnet honeypot to capture and analyze attacker behavior. *(repo link coming soon)* |
 
 ---
 
 ### 🧠 Frameworks & Knowledge Areas
+
 MITRE ATT&CK · OWASP Top 10 · SDLC · Agile Fundamentals · Risk Assessment · Incident Response
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shoaib1515&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shoaib1515&theme=default" alt="GitHub Streak" height="165"/>
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shoaib1515&show_icons=true&theme=default&count_private=true)](https://github.com/Shoaib1515)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shoaib1515&theme=default)](https://github.com/Shoaib1515)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shoaib1515&layout=compact&theme=default" alt="Top Languages" />
-</p>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shoaib1515&layout=compact&theme=default)](https://github.com/Shoaib1515)
 
 ---
 
 ### 📫 Connect with Me
 
-<p align="left">
-  <a href="mailto:shoaibasghar1515@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Shoaib1515"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-</p>
+[![](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shoaibasghar1515@gmail.com)
+[![](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mshoaibasghar)
+[![](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Shoaib1515)
 
-<p align="center"><i>Building on the backend, defending from the frontline. 🚀🛡️</i></p>
+*Building full stack products, defending them from the frontline. 🚀🛡️*
