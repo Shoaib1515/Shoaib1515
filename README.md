@@ -2,7 +2,7 @@
 
 ### Full Stack Developer | Cybersecurity & SOC Enthusiast | AI Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(React+%2B+Next.js+%2B+FastAPI);Transitioning+into+FULL+STACK+%2B+MERN;Cybersecurity+%26+SOC+Analyst+Enthusiast;SIEM+%7C+Pentesting+%7C+Threat+Intelligence)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(React+%2B+Next.js+%2B+FastAPI);Transitioning+into+FULL+STACK+%2B+MERN;Cybersecurity+%26+SOC+Analyst+Enthusiast;SIEM+%7C+Pentesting+%7C+Threat+Intelligence)](https://github.com/Shoaib1515)
 
 ---
 
