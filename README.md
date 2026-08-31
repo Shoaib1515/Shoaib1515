@@ -75,8 +75,10 @@
 #### 💻 Full Stack / Software Engineering
 
 | Project | Description |
-|---|---|
+| --- | --- |
+| **[AI File Assistant](https://github.com/Shoaib1515/ai-file-assistant)** | Cross-platform mobile app (Flutter) + FastAPI backend that turns CSV/Excel files into answers via Gemini AI — with AI-proposed edits that require human approval before any write. 15 REST endpoints, 40 automated tests, prompt-injection & formula-injection hardening. |
 | **[Portfolio Website](https://github.com/Shoaib1515/portfolio)** | My personal portfolio — Next.js, React, Tailwind CSS, Framer Motion, Three.js, with a real working contact form backend. |
+| **Crime Investigation Management System** | REST API (FastAPI + PostgreSQL) with relational schema for detectives, cases, suspects, evidence; AI-based risk scoring. *(repo link coming soon)* |
 | **[Secure Password Toolkit](https://github.com/Shoaib1515/password-toolkit)** | Local-first credential manager (Python/Tkinter) with PBKDF2-HMAC-SHA256 key derivation, brute-force lockout, and a formal threat model/security assessment report. |
 | **[Jarvis Voice Assistant](https://github.com/Shoaib1515/Desktop-AI-Assistant-Jarvis)** | Voice-controlled desktop assistant using `speech_recognition`, `pyttsx3`, and `win32com.client` for system automation. |
 | **[Instagram Clone](https://github.com/Shoaib1515/instagram_clone)** | Instagram-inspired mobile UI built in Flutter. |
@@ -88,7 +90,6 @@
 | Project | Description |
 |---|---|
 | **[SILI AI — Offensive/Defensive AI Security](https://github.com/Shoaib1515/sili-ai-Offensive-Defensive-AI-Security)** | Self-hosted, terminal-themed security assistant combining search-grounded Q&A, AI-powered code vulnerability auditing, and authorized nmap + CVE recon. |
-| **Crime Investigation Management System** | REST API (FastAPI + PostgreSQL) with relational schema for detectives, cases, suspects, evidence; AI-based risk scoring. *(repo link coming soon)* |
 | **Wazuh SIEM Deployment & Log Analysis** | Deployed Wazuh SIEM for real-time monitoring; configured agents, analyzed logs, and generated security alerts. *(repo link coming soon)* |
 | **Honeypot Deployment (Cowrie)** | SSH/Telnet honeypot to capture and analyze attacker behavior. *(repo link coming soon)* |
 
