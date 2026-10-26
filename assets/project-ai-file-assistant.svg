@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="262" viewBox="0 0 600 262" role="img" aria-label="AI File Assistant project card"><defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#253246"/><stop offset=".54" stop-color="#1C2C40"/><stop offset="1" stop-color="#2A3850"/></linearGradient>
+ <linearGradient id="glass" x1="0" y1="0" x2=".92" y2="1"><stop stop-color="#F6FAFF" stop-opacity=".19"/><stop offset=".62" stop-color="#DFEEFF" stop-opacity=".075"/><stop offset="1" stop-color="#B3CFE9" stop-opacity=".095"/></linearGradient>
+ <linearGradient id="rim" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4FAFF" stop-opacity=".48"/><stop offset=".52" stop-color="#A7C4EA" stop-opacity=".12"/><stop offset="1" stop-color="#BFCFFF" stop-opacity=".24"/></linearGradient>
+ <linearGradient id="name" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#6BCFE9"/><stop offset=".63" stop-color="#AC9AE7"/><stop offset="1" stop-color="#DDADD0"/></linearGradient>
+ <linearGradient id="wave" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#A59BE6" stop-opacity=".0"/><stop offset=".8" stop-color="#A59BE6" stop-opacity=".15"/><stop offset="1" stop-color="#A59BE6" stop-opacity=".38"/></linearGradient>
+ <radialGradient id="orb"><stop stop-color="#9EBDD8" stop-opacity=".16"/><stop offset="1" stop-color="#9EBDD8" stop-opacity="0"/></radialGradient>
+ <filter id="shadow" x="-30%" y="-40%" width="160%" height="180%"><feGaussianBlur stdDeviation="13"/></filter>
+ </defs>
+<rect width="600" height="262" rx="20" fill="url(#bg)"/>
+<path d="M365 262Q470 170 600 224V262Z" fill="#79C9E9" fill-opacity=".10"/>
+<path d="M405 262Q514 206 600 238V262Z" fill="#79C9E9" fill-opacity=".18"/>
+<rect x="1.2" y="1.2" width="597.6" height="259.6" rx="19" fill="url(#glass)" stroke="url(#rim)" stroke-width="1.5"/>
+<rect x="27" y="25" width="61" height="56" rx="15" fill="#79C9E9" fill-opacity=".15" stroke="#79C9E9" stroke-opacity=".18"/>
+<g transform="translate(29,27) scale(.4) translate(-462,-73)"><path d="M517 80l55 30-55 30-55-30z" fill="#79C9E9" fill-opacity=".24" stroke="#79C9E9" stroke-width="3"/><path d="M465 129l52 28 52-28M465 147l52 28 52-28" fill="none" stroke="#79C9E9" stroke-width="5" stroke-linecap="round"/><circle cx="517" cy="111" r="6" fill="#79C9E9"/></g>
+<text x="105" y="61" font-family="Arial,DejaVu Sans,sans-serif" font-size="26" fill="#F7FAFF" font-weight="700">AI File Assistant</text>
+<text x="29" y="120" font-family="Arial,DejaVu Sans,sans-serif" fill="#DBE5F2" font-size="18">AI-powered spreadsheet workflows</text>
+<text x="29" y="146" font-family="Arial,DejaVu Sans,sans-serif" fill="#B9CADD" font-size="15.6">Analyze files · review suggested edits</text>
+<rect x="28" y="194" width="201" height="36" rx="15" fill="#79C9E9" fill-opacity=".13" stroke="#79C9E9" stroke-opacity=".25"/>
+<text x="128" y="217" text-anchor="middle" font-family="Arial,DejaVu Sans,sans-serif" font-size="15" fill="#F3F5FC" font-weight="600">Flutter</text>
+<rect x="242" y="194" width="188" height="36" rx="15" fill="#E9F1FF" fill-opacity=".105" stroke="#C6D8EC" stroke-opacity=".18"/>
+<text x="336" y="217" text-anchor="middle" font-family="Arial,DejaVu Sans,sans-serif" font-size="15" fill="#E8EDF7" font-weight="600">FastAPI / Gemini</text>
+<path d="M549 38h22v22M571 38l-25 25" stroke="#DBE6F7" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+</svg>

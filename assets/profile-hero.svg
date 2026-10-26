@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="374" viewBox="0 0 1200 374" role="img" aria-label="Muhammad Shoaib Asghar, Full Stack and AI Developer"><defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#253246"/><stop offset=".54" stop-color="#1C2C40"/><stop offset="1" stop-color="#2A3850"/></linearGradient>
+ <linearGradient id="glass" x1="0" y1="0" x2=".92" y2="1"><stop stop-color="#F6FAFF" stop-opacity=".19"/><stop offset=".62" stop-color="#DFEEFF" stop-opacity=".075"/><stop offset="1" stop-color="#B3CFE9" stop-opacity=".095"/></linearGradient>
+ <linearGradient id="rim" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4FAFF" stop-opacity=".48"/><stop offset=".52" stop-color="#A7C4EA" stop-opacity=".12"/><stop offset="1" stop-color="#BFCFFF" stop-opacity=".24"/></linearGradient>
+ <linearGradient id="name" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#6BCFE9"/><stop offset=".63" stop-color="#AC9AE7"/><stop offset="1" stop-color="#DDADD0"/></linearGradient>
+ <linearGradient id="wave" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#A59BE6" stop-opacity=".0"/><stop offset=".8" stop-color="#A59BE6" stop-opacity=".15"/><stop offset="1" stop-color="#A59BE6" stop-opacity=".38"/></linearGradient>
+ <radialGradient id="orb"><stop stop-color="#9EBDD8" stop-opacity=".16"/><stop offset="1" stop-color="#9EBDD8" stop-opacity="0"/></radialGradient>
+ <filter id="shadow" x="-30%" y="-40%" width="160%" height="180%"><feGaussianBlur stdDeviation="13"/></filter>
+ </defs>
+<rect width="1200" height="374" rx="24" fill="url(#bg)"/>
+<circle cx="1040" cy="55" r="264" fill="url(#orb)"/>
+<circle cx="30" cy="380" r="188" fill="url(#orb)"/>
+<rect x="17" y="14" width="1166" height="345" rx="23" fill="url(#glass)" stroke="url(#rim)" stroke-width="1.4"/>
+<rect x="48" y="50" width="125" height="37" rx="13" fill="#E5F7FF" fill-opacity=".105" stroke="#D8F2FF" stroke-opacity=".19"/>
+<path d="M64 61l9 8-9 8M81 79h13" stroke="#80D9EF" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="103" y="74" font-family="Arial,DejaVu Sans,sans-serif" fill="#F5F8FC" font-size="15" font-weight="700">Hi, I'm</text>
+<text x="48" y="140" font-family="Arial,DejaVu Sans,sans-serif" fill="#F8FBFF" font-size="47" font-weight="700">Muhammad</text>
+<text x="322" y="140" font-family="Arial,DejaVu Sans,sans-serif" fill="url(#name)" font-size="47" font-weight="700">Shoaib</text>
+<text x="492" y="140" font-family="Arial,DejaVu Sans,sans-serif" fill="#F8FBFF" font-size="47" font-weight="700">Asghar</text>
+<text x="49" y="192" font-family="Arial,DejaVu Sans,sans-serif" font-size="29" font-weight="700" fill="#A7C7F3">Full Stack &amp; AI Developer</text>
+<text x="49" y="233" font-family="Arial,DejaVu Sans,sans-serif" font-size="18.5" fill="#D8E2EF">I build intelligent, secure, and user-focused web applications</text>
+<text x="49" y="260" font-family="Arial,DejaVu Sans,sans-serif" font-size="18.5" fill="#D8E2EF">with modern full-stack development and practical AI.</text>
+<rect x="48" y="289" width="223" height="43" rx="14" fill="#6FC9DC" fill-opacity=".17" stroke="#8BE4F4" stroke-opacity=".28"/>
+<text x="159" y="316" text-anchor="middle" font-family="Arial,DejaVu Sans,sans-serif" font-size="15" fill="#E7F7FC" font-weight="700">React  /  Next.js</text>
+<rect x="283" y="289" width="216" height="43" rx="14" fill="#AA98EB" fill-opacity=".15" stroke="#CDBAF4" stroke-opacity=".24"/>
+<text x="391" y="316" text-anchor="middle" font-family="Arial,DejaVu Sans,sans-serif" font-size="15" fill="#F1EAFF" font-weight="700">Python  /  FastAPI</text>
+<rect x="511" y="289" width="185" height="43" rx="14" fill="#F2D2A2" fill-opacity=".11" stroke="#F6D9AC" stroke-opacity=".23"/>
+<text x="603" y="316" text-anchor="middle" font-family="Arial,DejaVu Sans,sans-serif" font-size="15" fill="#FFF1D9" font-weight="700">AI  /  Automation</text>
+<!-- Clear subtle laptop illustration -->
+<ellipse cx="983" cy="298" rx="185" ry="15" fill="#A9BFF0" opacity=".08"/>
+<path d="M864 92L1104 73Q1120 72 1117 90L1092 266L834 270Z" fill="#8599C5" fill-opacity=".11" stroke="#BED9F8" stroke-opacity=".43" stroke-width="2.5"/>
+<path d="M881 109L1098 93L1076 249L853 250Z" fill="#17263C" fill-opacity=".67" stroke="#B3C7E8" stroke-opacity=".17"/>
+<path d="M832 270h260l41 22-17 9H787l-20-10z" fill="#9CA9D3" fill-opacity=".15" stroke="#BED9FA" stroke-opacity=".29"/>
+<path d="M930 282h99l15 8h-130z" fill="#CDD9EE" fill-opacity=".13"/>
+<path d="M922 159l-21 20 21 20M1019 159l21 20-21 20M989 151l-29 58" stroke="#7FD1E5" stroke-width="6.5" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="763" y="107" width="88" height="65" rx="17" fill="url(#glass)" stroke="#D3CCFF" stroke-opacity=".42"/>
+<text x="807" y="149" text-anchor="middle" font-family="Arial,DejaVu Sans,sans-serif" font-size="25" font-weight="700" fill="#B9ACEE">AI</text>
+<rect x="1088" y="38" width="75" height="65" rx="17" fill="url(#glass)" stroke="#A8E2F1" stroke-opacity=".38"/>
+<path d="M1111 68l14-7 15 7-15 7zM1111 78l14 7 15-7" stroke="#80D4EF" stroke-width="3" fill="none" stroke-linejoin="round"/>
+</svg>
