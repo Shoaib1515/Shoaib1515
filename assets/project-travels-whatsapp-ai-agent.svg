@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="278" viewBox="0 0 1200 278" role="img" aria-label="Travels WhatsApp AI Agent, an AI automation project using n8n and WhatsApp">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#263548"/><stop offset=".57" stop-color="#203147"/><stop offset="1" stop-color="#2A3A51"/></linearGradient>
+ <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F6FAFF" stop-opacity=".17"/><stop offset=".55" stop-color="#E1EFFB" stop-opacity=".055"/><stop offset="1" stop-color="#B9D3EA" stop-opacity=".10"/></linearGradient>
+ <linearGradient id="border" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F1F8FF" stop-opacity=".37"/><stop offset=".53" stop-color="#C7D8EB" stop-opacity=".13"/><stop offset="1" stop-color="#BADEE7" stop-opacity=".29"/></linearGradient>
+ <linearGradient id="workflow" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#76C7D6"/><stop offset="1" stop-color="#AA99DB"/></linearGradient>
+ <linearGradient id="pill" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#83C9DC" stop-opacity=".16"/><stop offset="1" stop-color="#ACC6F1" stop-opacity=".06"/></linearGradient>
+ <radialGradient id="halo"><stop stop-color="#B7C6E9" stop-opacity=".13"/><stop offset="1" stop-color="#B7C6E9" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="278" rx="20" fill="url(#bg)"/>
+<circle cx="1080" cy="43" r="250" fill="url(#halo)"/>
+<path d="M890 278 Q1050 186 1200 258 V278" fill="#A6AEDF" fill-opacity=".075"/>
+<rect x="1.2" y="1.2" width="1197.6" height="275.6" rx="19" fill="url(#glass)" stroke="url(#border)" stroke-width="1.5"/>
+<rect x="32" y="28" width="252" height="32" rx="13" fill="#89CCE0" fill-opacity=".12" stroke="#9DDBE5" stroke-opacity=".24"/>
+<circle cx="50" cy="44" r="5" fill="#99DAD5"/>
+<text x="65" y="49" font-family="Arial,DejaVu Sans,sans-serif" fill="#C3E5ED" font-size="14" font-weight="700" letter-spacing="1">FEATURED · AI AUTOMATION</text>
+<text x="33" y="111" font-family="Arial,DejaVu Sans,sans-serif" font-size="36" fill="#F6F9FE" font-weight="700">Travels WhatsApp AI Agent</text>
+<text x="34" y="150" font-family="Arial,DejaVu Sans,sans-serif" font-size="19" fill="#DCE6F0">AI-assisted travel conversations and booking workflows</text>
+<text x="34" y="179" font-family="Arial,DejaVu Sans,sans-serif" font-size="17" fill="#C0CDDF">Bringing messaging, automation and useful AI together.</text>
+<rect x="33" y="211" width="94" height="36" rx="15" fill="url(#pill)" stroke="#B9D8EE" stroke-opacity=".23"/>
+<text x="80" y="234" text-anchor="middle" font-family="Arial,DejaVu Sans,sans-serif" font-size="15" fill="#E7F2FA" font-weight="700">n8n</text>
+<rect x="138" y="211" width="133" height="36" rx="15" fill="url(#pill)" stroke="#B9D8EE" stroke-opacity=".23"/>
+<text x="204" y="234" text-anchor="middle" font-family="Arial,DejaVu Sans,sans-serif" font-size="15" fill="#E7F2FA" font-weight="700">WhatsApp</text>
+<rect x="282" y="211" width="154" height="36" rx="15" fill="url(#pill)" stroke="#B9D8EE" stroke-opacity=".23"/>
+<text x="359" y="234" text-anchor="middle" font-family="Arial,DejaVu Sans,sans-serif" font-size="15" fill="#E7F2FA" font-weight="700">AI Workflows</text>
+<!-- small airy product-flow illustration -->
+<rect x="680" y="42" width="476" height="193" rx="21" fill="#AFC5DD" fill-opacity=".06" stroke="#DBEAF6" stroke-opacity=".19"/>
+<circle cx="710" cy="65" r="5.4" fill="#D3A4B1" fill-opacity=".85"/><circle cx="728" cy="65" r="5.4" fill="#F0CE94" fill-opacity=".85"/><circle cx="746" cy="65" r="5.4" fill="#97D5D3" fill-opacity=".85"/>
+<text x="772" y="70" font-family="Arial,DejaVu Sans,sans-serif" font-size="14" fill="#AFBFD2">automation.workflow</text>
+<path d="M744 150H788M914 150H961" stroke="url(#workflow)" stroke-opacity=".68" stroke-width="2.4" stroke-dasharray="5 5" fill="none"/>
+<path d="M783 145l6 5-6 5M956 145l6 5-6 5" stroke="#AEDCDD" stroke-width="2" fill="none" stroke-linecap="round"/>
+<rect x="695" y="111" width="110" height="84" rx="16" fill="#79C9D4" fill-opacity=".12" stroke="#97D8E0" stroke-opacity=".45"/>
+<path d="M720 138 q15-19 36 0 q13 12 1 29 q-10 13-24 9 l-13 4 3-12 q-13-12-3-30" fill="none" stroke="#A6DDD9" stroke-width="2.1" stroke-linejoin="round"/>
+<path d="M732 148q2 11 13 13" stroke="#A6DDD9" stroke-width="2.1" fill="none" stroke-linecap="round"/>
+<text x="750" y="187" text-anchor="middle" font-family="Arial,DejaVu Sans,sans-serif" font-size="12" fill="#EBF5FA">WhatsApp</text>
+<rect x="824" y="111" width="120" height="84" rx="16" fill="#BC9AE0" fill-opacity=".12" stroke="#CBB6EB" stroke-opacity=".45"/>
+<rect x="848" y="131" width="72" height="35" rx="11" fill="none" stroke="#CAB5EE" stroke-width="1.8"/>
+<path d="M861 143h17m-17 9h33m-9-9h19" fill="none" stroke="#CBB8EC" stroke-width="2" stroke-linecap="round"/>
+<text x="884" y="187" text-anchor="middle" font-family="Arial,DejaVu Sans,sans-serif" font-size="12" fill="#EBF5FA">AI + n8n</text>
+<rect x="962" y="111" width="173" height="84" rx="16" fill="#B3CDE6" fill-opacity=".12" stroke="#C1DBEC" stroke-opacity=".4"/>
+<path d="M986 153l10 10 19-21" stroke="#9DDBD1" stroke-width="3" stroke-linecap="round" fill="none"/>
+<text x="1049" y="149" text-anchor="middle" font-family="Arial,DejaVu Sans,sans-serif" font-size="15" fill="#F1F6FC" font-weight="700">Travel</text>
+<text x="1049" y="168" text-anchor="middle" font-family="Arial,DejaVu Sans,sans-serif" font-size="13" fill="#D4E2EE">workflows</text>
+<path d="M1133 30h21v21M1154 30l-25 25" stroke="#D1E7F3" stroke-width="2.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
