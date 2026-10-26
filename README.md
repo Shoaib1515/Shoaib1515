@@ -1,119 +1,79 @@
-# Hi 👋, I'm Muhammad Shoaib Asghar
+<div align="center">
+  <img src="./assets/profile-hero.svg" alt="Muhammad Shoaib Asghar — Full Stack and AI Developer" width="100%" />
 
-### Full Stack Developer | AI Enthusiast | Cybersecurity & SOC Enthusiast
+  <br />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(React+%2B+Next.js+%2B+FastAPI);Transitioning+into+FULL+STACK+%2B+MERN;Cybersecurity+%26+SOC+Analyst+Enthusiast;SIEM+%7C+Pentesting+%7C+Threat+Intelligence)](https://github.com/Shoaib1515)
+  <a href="https://portfolio-shoaib22.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2E475C?style=for-the-badge&logo=vercel&logoColor=9CE5F5" alt="Portfolio" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/mshoaibasghar/"><img src="https://img.shields.io/badge/LinkedIn-394761?style=for-the-badge&logo=linkedin&logoColor=C1BAF4" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="https://github.com/Shoaib1515?tab=repositories"><img src="https://img.shields.io/badge/Repositories-35485B?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Repositories" /></a>
 
----
+  <br />
+  <br />
 
-### 👨‍💻 About Me
+  <img src="./assets/focus-areas.svg" width="100%" alt="Full Stack Development · AI Integration & Automation · Secure-by-design · Real-world Applications" />
+</div>
 
-- 🎓 BS Software Engineering, Islamia University Bahawalpur (CGPA: 3.34/4.00)
-- 💻 **Full Stack Developer** — React & Next.js on the frontend, Python/FastAPI on the backend
-- 🔧 Backend experience with **Python, FastAPI, PostgreSQL**, and RESTful API design
-- 🎨 Frontend experience with **React, Next.js, Tailwind CSS, Framer Motion**, and Flutter
-- 🛡️ Also passionate about **Cybersecurity & SOC Operations** — SIEM, Pentesting, Threat Intelligence, and Incident Response
-- 💬 Ask me about React, Next.js, Python, FastAPI, REST APIs, Flutter, or SOC/SIEM basics
-- 📫 Reach me at **shoaibasghar1515@gmail.com**
+### 🧰 Tech Stack
 
----
+<p>Tools I use to build polished interfaces, reliable APIs, and intelligent software.</p>
 
-### 🧰 Tech Stack & Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,python,fastapi,nodejs,mongodb,postgres,tailwind,docker,github&perline=12" alt="Next.js, React, TypeScript, JavaScript, Python, FastAPI, Node.js, MongoDB, PostgreSQL, Tailwind CSS, Docker, GitHub" />
+</div>
 
-**Frontend**
+<br />
 
-![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![](https://img.shields.io/badge/-Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-![](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+### 📂 Featured Projects
 
-**Languages**
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Shoaib1515?tab=repositories"><img src="./assets/project-sili-ai.svg" width="100%" alt="SILI AI project" /></a>
+      <p>Self-hosted AI-assisted security tools with code auditing and security research workflows.</p>
+      <a href="https://github.com/Shoaib1515?tab=repositories"><strong>Explore repositories →</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Shoaib1515/ai-file-assistant"><img src="./assets/project-ai-file-assistant.svg" width="100%" alt="AI File Assistant project" /></a>
+      <p>Work with spreadsheets using natural language, then validate and approve proposed AI edits.</p>
+      <a href="https://github.com/Shoaib1515/ai-file-assistant"><strong>View source →</strong></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Shoaib1515/ai-soc-analyst"><img src="./assets/project-ai-soc.svg" width="100%" alt="AI SOC Analyst project" /></a>
+      <p>Full-stack AI-assisted security investigation workflows connecting a React UI with Python APIs.</p>
+      <a href="https://github.com/Shoaib1515/ai-soc-analyst"><strong>View source →</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://portfolio-shoaib22.vercel.app/"><img src="./assets/project-portfolio.svg" width="100%" alt="Personal developer portfolio" /></a>
+      <p>My personal developer portfolio built with Next.js, React, Three.js, and Framer Motion.</p>
+      <a href="https://portfolio-shoaib22.vercel.app/"><strong>View live portfolio →</strong></a>
+    </td>
+  </tr>
+</table>
 
-![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+### ✨ What I Build
 
-**Backend & Frameworks**
+- **Full-stack products:** responsive UIs, backend APIs, data flows, and clean application architecture.
+- **Practical AI features:** natural language experiences, structured LLM outputs, and useful automation.
+- **Thoughtful security:** validation, clear permissions, human review, and secure-by-design development.
 
-![](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+> **My approach:** Build for people first. Add AI where it makes the product genuinely better.
 
-**Databases**
+### 📈 GitHub & Development
 
-![](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+I share projects and iterate in public. For my latest work and contributions, explore my [repositories](https://github.com/Shoaib1515?tab=repositories) and [GitHub activity](https://github.com/Shoaib1515).
 
-**Cybersecurity & SOC Tools**
+<div align="center">
+  <a href="https://github.com/Shoaib1515?tab=repositories"><img src="https://img.shields.io/badge/Explore_My_Projects-2E475C?style=for-the-badge&logo=github&logoColor=9CE5F5" alt="Explore projects" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/mshoaibasghar/"><img src="https://img.shields.io/badge/Let's_Connect-394761?style=for-the-badge&logo=linkedin&logoColor=C1BAF4" alt="Connect on LinkedIn" /></a>
+</div>
 
-![](https://img.shields.io/badge/-Wazuh-1E88E5?style=flat-square)
-![](https://img.shields.io/badge/-Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
-![](https://img.shields.io/badge/-Nmap-4682B4?style=flat-square)
-![](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square)
-![](https://img.shields.io/badge/-OWASP%20ZAP-000000?style=flat-square&logo=owasp&logoColor=white)
-![](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+<br />
 
-**Tools & Environments**
-
-![](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
-
-### 🚀 Featured Projects
-
-#### 💻 Full Stack / Software Engineering
-
-| Project | Description |
-| --- | --- |
-| **[AI File Assistant](https://github.com/Shoaib1515/ai-file-assistant)** | Cross-platform mobile app (Flutter) + FastAPI backend that turns CSV/Excel files into answers via Gemini AI — with AI-proposed edits that require human approval before any write. 15 REST endpoints, 40 automated tests, prompt-injection & formula-injection hardening. |
-| **[Portfolio Website](https://github.com/Shoaib1515/portfolio)** | My personal portfolio — Next.js, React, Tailwind CSS, Framer Motion, Three.js, with a real working contact form backend. |
-| **Crime Investigation Management System** | REST API (FastAPI + PostgreSQL) with relational schema for detectives, cases, suspects, evidence; AI-based risk scoring. *(repo link coming soon)* |
-| **[Secure Password Toolkit](https://github.com/Shoaib1515/password-toolkit)** | Local-first credential manager (Python/Tkinter) with PBKDF2-HMAC-SHA256 key derivation, brute-force lockout, and a formal threat model/security assessment report. |
-| **[Jarvis Voice Assistant](https://github.com/Shoaib1515/Desktop-AI-Assistant-Jarvis)** | Voice-controlled desktop assistant using `speech_recognition`, `pyttsx3`, and `win32com.client` for system automation. |
-| **[Instagram Clone](https://github.com/Shoaib1515/instagram_clone)** | Instagram-inspired mobile UI built in Flutter. |
-| **[Facebook Clone](https://github.com/Shoaib1515/facebook_Clone)** | Responsive Facebook clone UI built with Flutter. |
-| **[Login Page UI](https://github.com/Shoaib1515/loginpage)** | Clean, responsive login UI design built with Flutter. |
-
-#### 🛡️ Cybersecurity
-
-| Project | Description |
-|---|---|
-| **[SILI AI — Offensive/Defensive AI Security](https://github.com/Shoaib1515/sili-ai-Offensive-Defensive-AI-Security)** | Self-hosted, terminal-themed security assistant combining search-grounded Q&A, AI-powered code vulnerability auditing, and authorized nmap + CVE recon. |
-| **Wazuh SIEM Deployment & Log Analysis** | Deployed Wazuh SIEM for real-time monitoring; configured agents, analyzed logs, and generated security alerts. *(repo link coming soon)* |
-| **Honeypot Deployment (Cowrie)** | SSH/Telnet honeypot to capture and analyze attacker behavior. *(repo link coming soon)* |
-
----
-
-### 🧠 Frameworks & Knowledge Areas
-
-MITRE ATT&CK · OWASP Top 10 · SDLC · Agile Fundamentals · Risk Assessment · Incident Response
-
----
-
-### 📊 GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shoaib1515&show_icons=true&theme=default&count_private=true)](https://github.com/Shoaib1515)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shoaib1515&theme=default)](https://github.com/Shoaib1515)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shoaib1515&layout=compact&theme=default)](https://github.com/Shoaib1515)
-
----
-
-### 📫 Connect with Me
-
-[![](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shoaibasghar1515@gmail.com)
-[![](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mshoaibasghar)
-[![](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Shoaib1515)
-
-*Building full stack products, defending them from the frontline. 🚀🛡️*
+<div align="center">
+  <sub>Building thoughtful full-stack experiences, powered by AI.</sub>
+</div>
