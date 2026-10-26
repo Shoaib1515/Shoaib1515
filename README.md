@@ -23,9 +23,19 @@
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,python,fastapi,nodejs,mongodb,postgres,tailwind,docker,github&perline=12" alt="Next.js, React, TypeScript, JavaScript, Python, FastAPI, Node.js, MongoDB, PostgreSQL, Tailwind CSS, Docker, GitHub" />
 </div>
 
+<p align="center"><sub>Also working with <strong>n8n</strong>, WhatsApp automation and conversational AI workflows.</sub></p>
+
 <br />
 
 ### 📂 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/Shoaib1515/Travels-WhatsApp-AI-Agent">
+    <img src="./assets/project-travels-whatsapp-ai-agent.svg" width="100%" alt="Travels WhatsApp AI Agent — travel-focused AI automation with n8n and WhatsApp" />
+  </a>
+</div>
+
+**[Travels WhatsApp AI Agent](https://github.com/Shoaib1515/Travels-WhatsApp-AI-Agent)** — An AI automation project focused on WhatsApp travel conversations and booking-related workflows using n8n. **[View source →](https://github.com/Shoaib1515/Travels-WhatsApp-AI-Agent)**
 
 <table>
   <tr>
@@ -57,7 +67,7 @@
 ### ✨ What I Build
 
 - **Full-stack products:** responsive UIs, backend APIs, data flows, and clean application architecture.
-- **Practical AI features:** natural language experiences, structured LLM outputs, and useful automation.
+- **Practical AI features:** natural language experiences, structured LLM outputs, WhatsApp agents, and n8n workflows.
 - **Thoughtful security:** validation, clear permissions, human review, and secure-by-design development.
 
 > **My approach:** Build for people first. Add AI where it makes the product genuinely better.
